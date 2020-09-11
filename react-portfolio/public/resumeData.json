@@ -1,17 +1,17 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Mainul Islam Faruqi",
+    "occupation": "Full Stack Web Developer && web Developer @Answarit",
+    "description": "Full Stack Django and ReactJS Developer by Day , Founder && Freelancer by Night. #papaReact",
+    "image": "profile.jpg",
+    "bio": "My name is Mainul Islam Faruqi, I'm a Full Stack Django and ReactJS Developer. Currently I'm working at Answarit ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "sonny@cleverprogrammer.com",
     "phone": "+44 12 345 6789",
     "address": {
       "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
+      "city": "Cumiila",
+      "state": "Bangladesh",
       "zip": "ABC 123"
     },
     "website": "http://www.timbakerdev.com",
@@ -19,22 +19,22 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/mainul.mif",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/md-mainul-islam-4466a2179/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/mainul_islam_faruqi/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/CrazyPythonLover1",
         "className": "fa fa-github"
       }
     ]
@@ -43,34 +43,45 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Habibulla Bahar University",
+        "degree": "Bsc in English Literature, Self-taught Software Engineer",
+        "graduate": "December 2021",
+        "description": "Will be graduated 2021"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
+        "company": "Answarit",
+        "title": "Software Engineer",
         "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "description": "Building Blog, E-commerce website."
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "SoftDevs",
+        "title": "Team Member && Django Developer",
+        "years": "Sep 2019 - Feb 2020",
+        "description": "Building Blog, E-commerce website."
+      },
+      {
+        "company": "Crazy Python Lover Youtube Channel",
+        "title": "CEO && Web Developer",
+        "years": "Sep 2019 - Present",
+        "description": "Teaching Python to this Channel"
       }
+      
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "60%"
+      },
+      {
+        "name": "Django",
+        "level": "70%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "85%"
       },
       {
         "name": "Git",
@@ -85,22 +96,22 @@
         "level": "80%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Mysql",
+        "level": "60%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "title": "E-commerce",
+        "category": "It's look like Amazone built with ReactJS",
         "image": "whatsapp-mern.jpeg",
         "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "title": "MERN Stack Amazone Clone",
+        "category": "Amazone Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "tiktok-mern.jpeg",
         "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
       },
@@ -111,14 +122,14 @@
         "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
+        "title": "Simple Online Course",
+        "category": "Online Course ReactJS",
         "image": "airbnb-clone.jpeg",
         "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
       },
       {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
+        "title": "simple Blog",
+        "category": "Blogsite built with ReactJS",
         "image": "netflix-clone.jpeg",
         "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
       }
