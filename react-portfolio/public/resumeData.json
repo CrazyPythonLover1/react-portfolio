@@ -106,32 +106,32 @@
       {
         "title": "E-commerce",
         "category": "It's look like Amazone built with ReactJS",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "image": "Ema-jhon.png",
+        "url": "https://thirsty-chandrasekhar-c086eb.netlify.app"
       },
       {
-        "title": "MERN Stack Amazone Clone",
+        "title": "ReactJS Amazone Clone",
         "category": "Amazone Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "image": "amazone.png",
+        "url": "https://nifty-visvesvaraya-e8d8ba.netlify.app/"
       },
       {
         "title": "Facebook Clone with React",
         "category": "Facebook Clone built with ReactJS",
         "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "url": "https://gracious-wiles-cb6d6f.netlify.app/"
       },
       {
         "title": "Simple Online Course",
         "category": "Online Course ReactJS",
         "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "url": "https://eager-cori-ab0e33.netlify.app"
       },
       {
         "title": "simple Blog",
         "category": "Blogsite built with ReactJS",
         "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "url": "https://eager-lovelace-96f691.netlify.app"
       }
     ]
   },
