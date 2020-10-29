@@ -3,11 +3,11 @@
     "name": "Mainul Islam Faruqi",
     "occupation": "Full Stack Web Developer && web Developer @Answarit",
     "description": "Full Stack Django and ReactJS Developer by Day , Founder && Freelancer by Night. #papaReact",
-    "image": "profile.jpg",
+    "image": "Github-profile-pic.png",
     "bio": "My name is Mainul Islam Faruqi, I'm a Full Stack Django and ReactJS Developer. Currently I'm working at Answarit ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "mainulislamfaruqi@gmail.com",
+    "phone": "+880 1871203061",
     "address": {
       "street": "123 Fake Street",
       "city": "Cumiila",
@@ -44,40 +44,52 @@
     "education": [
       {
         "school": "Habibulla Bahar University",
-        "degree": "Bsc in English Literature, Self-taught Software Engineer",
+        "degree": "BA in English Literature, Self-taught Software Engineer",
         "graduate": "December 2021",
         "description": "Will be graduated 2021"
       }
     ],
     "work": [
       {
-        "company": "Answarit",
-        "title": "Software Engineer",
-        "years": "April 2020 - Present",
-        "description": "Building Blog, E-commerce website."
+        "company": "AnswarIT",
+        "title": "Full-Stack Web Developer",
+        "years": "FEB 2020 - present",
+        "description": " I was responsible for developing websites with Django and WordPress. Developed an Oil blog web applicaion with Django. Features: create a post, Detail page, most recent post, category list, recommended similar post, comment functionality, Featured post, etc. Website Live Link: https://oil4us.com "
       },
       {
         "company": "SoftDevs",
-        "title": "Team Member && Django Developer",
-        "years": "Sep 2019 - Feb 2020",
-        "description": "Building Blog, E-commerce website."
+        "title": "Web Developer",
+        "years": "Sep 2019 - FEB 2020",
+        "description": "I was responsible for developing websites with Django and WordPress. Developed some WordPress site, like E-commerce, Blog etc. Live Link: https://blog.softdevs.org/ "
       },
       {
         "company": "Crazy Python Lover Youtube Channel",
-        "title": "CEO && Web Developer",
+        "title": "CEO && Founder",
         "years": "Sep 2019 - Present",
-        "description": "Teaching Python to this Channel"
+        "description": "Teaching Python, Web Development and programming to this Channel"
       }
       
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "60%"
+        "level": "70%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "65%"
+      },
+      {
+        "name": "ExpressJS",
+        "level": "65%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
       },
       {
         "name": "Django",
-        "level": "70%"
+        "level": "75%"
       },
       {
         "name": "CSS",
@@ -88,7 +100,7 @@
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
+        "name": "Figma",
         "level": "55%"
       },
       {
@@ -142,7 +154,7 @@
         "user": "Kareem Abdul Jabbar"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "That Mainul Islam must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user": "Steve Wozniak... impersonator"
       }
     ]
